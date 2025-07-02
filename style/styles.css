@@ -1,4 +1,3 @@
-
 /* Base styles */
 :root {
     --primary-color: #a0a0a0;
@@ -411,6 +410,7 @@ img {
         -webkit-overflow-scrolling: touch;
         margin-bottom: 30px;
         padding-bottom: 20px;
+        overflow: hidden;
     }
 
     .gallery__slider::-webkit-scrollbar {
